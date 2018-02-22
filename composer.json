@@ -1,5 +1,5 @@
 {
-    "name": "fluffy/routing",
+    "name": "fluffy-framework/routing",
     "description": "Super-Easy and Flexible Routing Package.",
     "license": "MIT",
     "type": "library",
