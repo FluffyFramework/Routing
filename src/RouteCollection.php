@@ -2,6 +2,8 @@
 
 namespace Fluffy\Routing;
 
-class RouteCollection
+use Fluffy\Assistance\Collection;
+
+class RouteCollection extends Collection
 {
 }
